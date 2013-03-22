@@ -1,5 +1,5 @@
 :: Configure File Source Location
-cd 'C:\Users\kvemishe\Documents\HHMI\Phase1'
+cd C:\Users\kvemishe\Documents\HHMI\Phase1
 git init
 git status
 git add .
