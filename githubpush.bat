@@ -15,7 +15,8 @@ pause
 ::git config --get-regexp '^(remote|branch)\.'
 
 :: Push to GitHub Repository on Web
-git push -u origin master
+::git push -u origin master
+git push origin master
 
 git status
 
