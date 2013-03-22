@@ -10,6 +10,7 @@ git status
 
 :: Configure Git Hub Destination Location on Web and mae it as ORIGIN
 ::git remote add origin git@github.com:kalyanramu/5734Code.git
+git remote add origin1 https://github.com/kalyanramu/5734Code.git
 pause
 ::Get Remote Location Info
 ::git config --get-regexp '^(remote|branch)\.'
