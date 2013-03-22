@@ -21,3 +21,11 @@ git push origin master
 git status
 
 pause
+
+
+::Additional Debugging Tools
+
+::%%%%Remote%%%%%
+:: To get URL of remote
+:: git remote -v 
+:: Ans: origin git@github.com/kalyanramu.....
