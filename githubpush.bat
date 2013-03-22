@@ -20,7 +20,7 @@ pause
 git remote set-url origin https://kalyanramu:99komal))@github.com/kalyanramu/5734Code.git
 ::git pull origin1
 git pull origin
-git push origin master
+git push origin/master master
 
 git status
 
