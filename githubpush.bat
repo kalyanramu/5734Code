@@ -16,3 +16,5 @@ git remote set-url origin git@github.com/kalyanramu/5734Code.git
 git push -u origin master
 
 git status
+
+pause
