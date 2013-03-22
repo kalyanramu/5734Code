@@ -2,7 +2,15 @@
 cd C:\Users\kvemishe\Documents\HHMI\Phase1
 git init
 git status
+
+::Tell git who you are
+::git config --global user.name "Kalyanramu Vemishetty"
+::git config --global user.email "kalyanramu@gmail.com"
+
+::To Create New Rpository
 git add .
+::To Use Existing Repository
+::git clone <URL>
 
 :: Commit to Git and Give a Comment
 git commit -m "Adding FlexRIO Host Library"
