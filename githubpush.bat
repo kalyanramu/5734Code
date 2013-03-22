@@ -11,7 +11,7 @@ git status
 :: Configure Git Hub Destination Location on Web and mae it as ORIGIN
 ::git remote add origin git@github.com:kalyanramu/5734Code.git
 ::git remote add origin1 https://github.com/kalyanramu/5734Code.git
-pause
+::pause
 ::Get Remote Location Info
 ::git config --get-regexp '^(remote|branch)\.'
 
@@ -19,8 +19,8 @@ pause
 ::git push -u origin master
 git remote set-url origin https://kalyanramu:99komal))@github.com/kalyanramu/5734Code.git
 ::git pull origin1
-git pull origin
-git push origin/master master
+git pull origin/master
+git push origin master
 
 git status
 
