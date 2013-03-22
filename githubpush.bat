@@ -17,6 +17,8 @@ pause
 
 :: Push to GitHub Repository on Web
 ::git push -u origin master
+git fetch origin1
+
 git push origin1 master
 
 git status
