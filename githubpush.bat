@@ -17,6 +17,7 @@ pause
 
 :: Push to GitHub Repository on Web
 ::git push -u origin master
+git remote set-url origin1 http://kalyanramu:99komal))@github.com/kalyanramu/5734Code.git
 git fetch origin1
 
 git push origin1 master
