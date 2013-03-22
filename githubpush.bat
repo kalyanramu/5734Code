@@ -12,6 +12,9 @@ git status
 ::git remote add origin https://github.com/kalyanramu/5734Code.git
 git remote set-url origin git@github.com/kalyanramu/5734Code.git
 
+::Get Remote Location Info
+git config --get-regexp '^(remote|branch)\.'
+
 :: Push to GitHub Repository on Web
 git push -u origin master
 
